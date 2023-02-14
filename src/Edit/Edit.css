@@ -1,0 +1,12 @@
+body{
+    background-image: url('../image/cinema.jpg');
+    background-size: 100%;
+    color:aliceblue;
+    text-align: center;
+}
+
+.nome{
+    font-size: 10x;
+}
+
+
